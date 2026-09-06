@@ -1,16 +1,18 @@
 # Sales-Analysis-Excel
-An exploratory analysis of sales data using Microsoft Excel. The project focuses on data cleaning, pivot tables, KPIs, and visualization.
+An exploratory analysis of sales data using Microsoft Excel.
+The project focuses on transforming raw sales data into meaningful business insights through data cleaning, pivot tables, KPI analysis, and interactive visualizations.
 
+# Main objective:
+Analyze sales performance and identify trends, patterns, and key factors affecting business results.
 
-**Main objective:**
-_Analyze customer characteristics and identify factors associated with purchasing a bike._
+# Skills demonstrated:
 
-**Skills demonstrated:**
-  Data cleaning
-  Excel formulas
-  Data transformation
-  Pivot tables
-  Data analysis
-  Data visualization
-  Dashboard creation
-  Business insights
+Data cleaning and preparation
+Excel formulas and functions
+Data transformation
+Pivot tables and pivot charts
+KPI development
+Sales trend analysis
+Data visualization
+Dashboard creation
+Business insights and recommendations
